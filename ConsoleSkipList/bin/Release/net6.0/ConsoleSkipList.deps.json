@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleSkipList/1.0.0": {
+        "dependencies": {
+          "CustomSkipList": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleSkipList.dll": {}
+        }
+      },
+      "CustomSkipList/1.0.0": {
+        "runtime": {
+          "CustomSkipList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleSkipList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomSkipList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

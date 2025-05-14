@@ -1,0 +1,11 @@
+C:\Users\nasta\Desktop\6 семестр\MP\CustomSkipList\CustomSkipList\bin\Release\net6.0\CustomSkipList.deps.json
+C:\Users\nasta\Desktop\6 семестр\MP\CustomSkipList\CustomSkipList\bin\Release\net6.0\CustomSkipList.dll
+C:\Users\nasta\Desktop\6 семестр\MP\CustomSkipList\CustomSkipList\bin\Release\net6.0\CustomSkipList.pdb
+C:\Users\nasta\Desktop\6 семестр\MP\CustomSkipList\CustomSkipList\obj\Release\net6.0\CustomSkipList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasta\Desktop\6 семестр\MP\CustomSkipList\CustomSkipList\obj\Release\net6.0\CustomSkipList.AssemblyInfoInputs.cache
+C:\Users\nasta\Desktop\6 семестр\MP\CustomSkipList\CustomSkipList\obj\Release\net6.0\CustomSkipList.AssemblyInfo.cs
+C:\Users\nasta\Desktop\6 семестр\MP\CustomSkipList\CustomSkipList\obj\Release\net6.0\CustomSkipList.csproj.CoreCompileInputs.cache
+C:\Users\nasta\Desktop\6 семестр\MP\CustomSkipList\CustomSkipList\obj\Release\net6.0\CustomSkipList.dll
+C:\Users\nasta\Desktop\6 семестр\MP\CustomSkipList\CustomSkipList\obj\Release\net6.0\refint\CustomSkipList.dll
+C:\Users\nasta\Desktop\6 семестр\MP\CustomSkipList\CustomSkipList\obj\Release\net6.0\CustomSkipList.pdb
+C:\Users\nasta\Desktop\6 семестр\MP\CustomSkipList\CustomSkipList\obj\Release\net6.0\ref\CustomSkipList.dll
